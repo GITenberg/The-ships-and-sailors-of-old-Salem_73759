@@ -1,5 +1,8 @@
 _repo: The-ships-and-sailors-of-old-Salem_73759
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73759-h/images/cover.jpg
 creator:
   author:
     agent_name: Paine, Ralph Delahaye
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1113
     wikipedia: https://en.wikipedia.org/wiki/Ralph_Delahaye_Paine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73759#The-ships-and-sailors-of-old-Salem
 gutenberg_issued: '2024-06-02'
 gutenberg_type: Text
 identifiers:
